@@ -1,0 +1,37 @@
+html{
+	height: 100%;
+}
+body{
+	height:100%; 
+	width:100%;
+	margin:  0px;
+	padding: 0px;
+
+	background-color: #E0EBEB;
+	font-family: arial;
+	font-size: 14px;
+	
+}
+header{
+	color: #fbfcff;
+	padding: 30px;
+	background-color: #24527A;
+}
+aside{
+	padding: 20px;
+	color: #e4ebff;
+	background-color: #5DACBD;
+}
+
+nav{
+	background-color: #24527A;
+}
+article{
+}
+section{
+	background-color: #A7BCB9;
+}
+footer{
+	color: #e4ebff;
+	background-color: #5DACBD;
+}
